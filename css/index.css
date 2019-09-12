@@ -1,0 +1,33 @@
+/* NAV STYLES */
+nav {
+    display: none;
+}
+
+/* SECTION STYLES */
+.home,
+.about,
+.projects,
+.contact {
+    height: 100vh;
+    width: 100vw;
+}
+
+/* HOME SECTION */
+.home {
+    background-color: red;
+}
+
+/* ABOUT SECTION */
+.about {
+    background-color: blue;
+}
+
+/* PROJECTS SECTION */
+.projects {
+    background-color: green;
+}
+
+/* CONTACT SECTION */
+.contact {
+    background-color: yellow;
+}
